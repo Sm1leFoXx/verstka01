@@ -1,0 +1,72 @@
+body {
+    font-family: "Gilroy-Bold";
+}
+
+/* HEADER */
+.container {
+    margin:33.05px 252px;
+}
+
+.header-line__style{
+    border-bottom: 1px solid #828282;
+    
+}
+.header-links__position {
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 33.05px;
+}
+
+.header-links__styleOthers {
+    color: #828282;
+}
+
+.container-elements__position {
+display: flex;
+justify-content: space-between;
+}
+.container-name__style {
+    width: 123.51px;
+}
+.container-aboutMe__style {
+    font-family: "Gilroy-Medium";
+    font-size: 18px;
+    width: 293.23px;
+}
+.contanet-langButton__style {
+    margin:0px;
+    transform: rotate(-90deg); 
+}
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+/* Fonts*/
+@font-face {
+    font-family: "Gilroy-Bold";
+    src: url(/fonts/gilroy-bold.ttf);
+    font-style:normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Gilroy-Medium";
+    src: url(/fonts/gilroy-medium.ttf);
+    font-style:normal;
+    font-weight: normal;
+}
